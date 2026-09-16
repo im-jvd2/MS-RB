@@ -1,4 +1,4 @@
-<div dir="rtl" align="center">
+<div dir="rtl" align="right">
 
 # 📚 پروژه سئو و توسعه — رویال برند × مهدی شاه‌نظری
 
