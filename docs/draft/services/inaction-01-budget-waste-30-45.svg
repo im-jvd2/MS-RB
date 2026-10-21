@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- ۳۰ تا ۴۵٪ بودجه هدررفت: اسکناس با کانال‌های ناهماهنگ -->
+  <rect x="14" y="22" width="36" height="22" rx="3"/>
+  <circle cx="32" cy="33" r="6"/>
+  <path d="M31 30 H32 C33 30 34 31 34 32 C34 33 33 34 32 34 H31 C30 34 29 35 29 36 C29 37 30 38 31 38 H34"/>
+  <path d="M14 30 H10"/>
+  <path d="M50 30 H54"/>
+  <path d="M22 22 L26 18 L30 22"/>
+  <path d="M34 22 L38 18 L42 22"/>
+  <path d="M18 44 L14 48 L18 48"/>
+  <path d="M46 44 L50 48 L46 48"/>
+  <path d="M24 16 H40" opacity="0.35"/>
+
+</svg>

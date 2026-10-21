@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- طراحی استراتژی هفته ۱-۲: هدف + سند -->
+  <circle cx="28" cy="28" r="16"/>
+  <circle cx="28" cy="28" r="9"/>
+  <circle cx="28" cy="28" r="3" fill="currentColor" stroke="none"/>
+  <path d="M28 12 V16"/>
+  <path d="M28 40 V44"/>
+  <path d="M12 28 H16"/>
+  <path d="M40 28 H44"/>
+  <rect x="38" y="38" width="14" height="16" rx="1.5"/>
+  <path d="M41 43 H49"/>
+  <path d="M41 47 H49"/>
+  <path d="M41 51 H46"/>
+
+</svg>

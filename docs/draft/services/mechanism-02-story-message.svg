@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Story پیامی که می‌ماند: کتاب باز + حباب گفتار -->
+  <path d="M16 48 C16 44 20 42 32 40 C44 42 48 44 48 48 V18 C48 14 44 12 32 12 C20 12 16 14 16 18 Z"/>
+  <path d="M32 12 V40"/>
+  <path d="M32 16 C32 16 38 18 42 22 C46 26 46 34 42 38 C38 42 34 42 32 40"/>
+  <path d="M36 26 H40"/>
+  <path d="M36 32 H42"/>
+  <path d="M32 40 L28 48 L36 42"/>
+
+</svg>

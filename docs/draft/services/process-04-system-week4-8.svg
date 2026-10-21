@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- سیستم‌سازی هفته ۴-۸: چرخ‌دنده + قیف -->
+  <circle cx="32" cy="28" r="9"/>
+  <path d="M32 12 V18"/>
+  <path d="M32 38 V44"/>
+  <path d="M16 28 H22"/>
+  <path d="M42 28 H48"/>
+  <path d="M20 16 L24 20"/>
+  <path d="M40 36 L44 40"/>
+  <path d="M20 40 L24 36"/>
+  <path d="M40 16 L44 20"/>
+  <path d="M24 48 L32 54 L40 48 V44"/>
+
+</svg>

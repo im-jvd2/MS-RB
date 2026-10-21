@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- System هماهنگی تا فروش: ۳ لایه + چرخ‌دنده -->
+  <path d="M12 42 L32 14 L52 42 Z"/>
+  <path d="M20 32 H44"/>
+  <path d="M24 42 H40"/>
+  <circle cx="32" cy="42" r="8"/>
+  <path d="M32 38 V39 M32 45 V46 M29 40 L30 41 M34 43 L35 44 M29 44 L30 43 M34 40 L35 41"/>
+  <path d="M16 52 H48"/>
+
+</svg>

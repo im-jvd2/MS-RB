@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Clinic/Luxury: medical cross + diamond/crown hint -->
-  <path d="M32 14 L38 22 H46 L40 28 L42 36 L32 30 L22 36 L24 28 L18 22 H26 Z" />
-  <path d="M32 38 V48"/>
-  <path d="M24 44 H40"/>
-  <circle cx="32" cy="52" r="1.5" fill="currentColor" stroke="none"/>
+  <!-- کلینیک لوکس: ساختمان کلینیک + ستاره لوکس + صلیب پزشکی -->
+  <rect x="18" y="28" width="28" height="18" rx="2"/>
+  <path d="M22 28 L32 18 L42 28"/>
+  <rect x="28" y="32" width="8" height="8" rx="1"/>
+  <path d="M32 32 V40"/>
+  <path d="M28 36 H36"/>
+  <path d="M32 14 L34 18 L38 18 L35 21 L36 25 L32 23 L28 25 L29 21 L26 18 L30 18 Z"/>
+
 </svg>

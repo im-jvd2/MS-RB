@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M12 32 L52 14 L40 50 L28 38 L18 44 Z"/>
-  <path d="M52 14 L28 38"/>
-  <path d="M28 38 L40 50"/>
+  <!-- کمپین برندینگ: الماس -->
+  <path d="M32 10 L50 22 L32 54 L14 22 Z"/>
+  <path d="M14 22 H50"/>
+  <path d="M20 22 L32 54 L44 22"/>
+  <path d="M26 10 L32 22 L38 10"/>
+
 </svg>

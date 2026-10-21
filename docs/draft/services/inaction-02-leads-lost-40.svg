@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- ۴۰٪ لید از دست رفته ۴۸ ساعت: ساعت شنی + لید نشتی -->
+  <path d="M16 12 H48 L32 32 L48 52 H16 L32 32 Z"/>
+  <path d="M16 12 H48"/>
+  <path d="M16 52 H48"/>
+  <circle cx="32" cy="20" r="4"/>
+  <path d="M32 24 V28"/>
+  <path d="M26 40 C26 40 30 44 32 44 C34 44 38 40 38 40"/>
+  <circle cx="32" cy="44" r="1.2" fill="currentColor" stroke="none"/>
+  <path d="M38 44 L44 48"/>
+
+</svg>
