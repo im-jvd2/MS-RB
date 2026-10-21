@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Clinic/Luxury: medical cross + diamond/crown hint -->
+  <path d="M32 14 L38 22 H46 L40 28 L42 36 L32 30 L22 36 L24 28 L18 22 H26 Z" />
+  <path d="M32 38 V48"/>
+  <path d="M24 44 H40"/>
+  <circle cx="32" cy="52" r="1.5" fill="currentColor" stroke="none"/>
+</svg>
